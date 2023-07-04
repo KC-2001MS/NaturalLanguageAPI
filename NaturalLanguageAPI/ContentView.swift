@@ -8,14 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var text: String = ""
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        NavigationSplitView {
+            InfoView(info: InfoObject(text: text))
+        } detail: {
+            TextEditor(text: $text)
         }
-        .padding()
     }
 }
 

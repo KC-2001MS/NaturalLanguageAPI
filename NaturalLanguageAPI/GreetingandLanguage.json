@@ -1,0 +1,303 @@
+[
+    {
+        "language" : "Amharic",
+        "code" : "am",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Arabic",
+        "code" : "ar",
+        "word" : "أهلا"
+    },
+    {
+        "language" : "Bengali",
+        "code" : "bn",
+        "word" : "হ্যালো"
+    },
+    {
+        "language" : "Unknown",
+        "code" : "bh",
+        "word" : "प्रणाम"
+    },
+    {
+        "language" : "Bulgarian",
+        "code" : "bg",
+        "word" : "Здравей"
+    },
+    {
+        "language" : "Tibetan",
+        "code" : "bo",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Catalan",
+        "code" : "ca",
+        "word" : "Bona tarda"
+    },
+    {
+        "language" : "Cherokee",
+        "code" : "chr",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Czech",
+        "code" : "cs",
+        "word" : "Ahoj"
+    },
+    {
+        "language" : "Danish",
+        "code" : "da",
+        "word" : "Hej"
+    },
+    {
+        "language" : "German",
+        "code" : "de",
+        "word" : "Hallo"
+    },
+    {
+        "language" : "Greek",
+        "code" : "el",
+        "word" : "Χαίρετε"
+    },
+    {
+        "language" : "English",
+        "code" : "en",
+        "word" : "Hello"
+    },
+    {
+        "language" : "Spanish",
+        "code" : "es",
+        "word" : "Hola"
+    },
+    {
+        "language" : "Unknown",
+        "code" : "eu",
+        "word" : "Kaixo"
+    },
+    {
+        "language" : "Persian",
+        "code" : "fa",
+        "word" : "سلام"
+    },
+    {
+        "language" : "Finnish",
+        "code" : "fi",
+        "word" : "Hei"
+    },
+    {
+        "language" : "French",
+        "code" : "fr",
+        "word" : "Hei"
+    },
+    {
+        "language" : "Unknown",
+        "code" : "gl",
+        "word" : "Boas tardes"
+    },
+    {
+        "language" : "Gujarati",
+        "code" : "gu",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Hebrew",
+        "code" : "he",
+        "word" : "שלום"
+    },
+    {
+        "language" : "Hindi",
+        "code" : "hi",
+        "word" : "नमस्ते"
+    },
+    {
+        "language" : "Croatian",
+        "code" : "hr",
+        "word" : "zdravo"
+    },
+    {
+        "language" : "Hungarian",
+        "code" : "hu",
+        "word" : "Szia"
+    },
+    {
+        "language" : "Armenian",
+        "code" : "hy",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Indonesian",
+        "code" : "id",
+        "word" : "halo"
+    },
+    {
+        "language" : "Icelandic",
+        "code" : "is",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Italian",
+        "code" : "it",
+        "word" : "Ciao"
+    },
+    {
+        "language" : "Japanese",
+        "code" : "ja",
+        "word" : "こんにちは"
+    },
+    {
+        "language" : "Georgian",
+        "code" : "ka",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Khmer",
+        "code" : "km",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Kannada",
+        "code" : "kn",
+        "word" : "ನಮಸ್ಕಾರ."
+    },
+    {
+        "language" : "Korean",
+        "code" : "ko",
+        "word" : "안녕하세요"
+    },
+    {
+        "language" : "Lao",
+        "code" : "lo",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Malayalam",
+        "code" : "ml",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Mongolian",
+        "code" : "mn-Mong",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Malay",
+        "code" : "ms",
+        "word" : "Selamat pagi"
+    },
+    {
+        "language" : "Marathi",
+        "code" : "mr",
+        "word" : "नमस्कार"
+    },
+    {
+        "language" : "Burmese",
+        "code" : "my",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Dutch",
+        "code" : "nl",
+        "word" : "Hallo"
+    },
+    {
+        "language" : "Norwegian",
+        "code" : "no",
+        "word" : "Hallo"
+    },
+    {
+        "language" : "Oriya",
+        "code" : "or",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Punjabi",
+        "code" : "pa-Guru",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Polish",
+        "code" : "pl",
+        "word" : "Witam"
+    },
+    {
+        "language" : "Portuguese",
+        "code" : "pt",
+        "word" : "olá"
+    },
+    {
+        "language" : "Romanian",
+        "code" : "ro",
+        "word" : "Buna ziua"
+    },
+    {
+        "language" : "Russian",
+        "code" : "ru",
+        "word" : "привет"
+    },
+    {
+        "language" : "Sinhalese",
+        "code" : "si",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Slovak",
+        "code" : "sk",
+        "word" : "Ahoj"
+    },
+    {
+        "language" : "Swedish",
+        "code" : "sv",
+        "word" : "Hallå"
+    },
+    {
+        "language" : "Tamil",
+        "code" : "ta",
+        "word" : "வணக்கம்"
+    },
+    {
+        "language" : "Telugu",
+        "code" : "te",
+        "word" : "నమస్కారం"
+    },
+    {
+        "language" : "Thai",
+        "code" : "th",
+        "word" : "สวัสดี"
+    },
+    {
+        "language" : "Turkish",
+        "code" : "tr",
+        "word" : "merhaba"
+    },
+    {
+        "language" : "Ukrainian",
+        "code" : "uk",
+        "word" : "добрий день"
+    },
+    {
+        "language" : "Urdu",
+        "code" : "ur",
+        "word" : "A B C D E F G"
+    },
+    {
+        "language" : "Vietnamese",
+        "code" : "vi",
+        "word" : "Xin Chao"
+    },
+    {
+        "language" : "Unknown",
+        "code" : "zh",
+        "word" : "你好"
+    },
+    {
+        "language" : "Simplified Chinese",
+        "code" : "zh-Hans",
+        "word" : "你好"
+    },
+    {
+        "language" : "Traditional Chinese",
+        "code" : "zh-Hant",
+        "word" : "你好"
+    },
+]
+
